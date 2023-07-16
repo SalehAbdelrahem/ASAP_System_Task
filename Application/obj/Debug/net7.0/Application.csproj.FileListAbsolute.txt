@@ -1,0 +1,17 @@
+D:\ASAP_Task\GeneralSolutions\Application\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
+D:\ASAP_Task\GeneralSolutions\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASAP_Task\GeneralSolutions\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+D:\ASAP_Task\GeneralSolutions\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
+D:\ASAP_Task\GeneralSolutions\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
+D:\ASAP_Task\GeneralSolutions\Application\bin\Debug\net7.0\Application.deps.json
+D:\ASAP_Task\GeneralSolutions\Application\bin\Debug\net7.0\Application.dll
+D:\ASAP_Task\GeneralSolutions\Application\bin\Debug\net7.0\Application.pdb
+D:\ASAP_Task\GeneralSolutions\Application\bin\Debug\net7.0\Domain.dll
+D:\ASAP_Task\GeneralSolutions\Application\bin\Debug\net7.0\DTOS.dll
+D:\ASAP_Task\GeneralSolutions\Application\bin\Debug\net7.0\Domain.pdb
+D:\ASAP_Task\GeneralSolutions\Application\bin\Debug\net7.0\DTOS.pdb
+D:\ASAP_Task\GeneralSolutions\Application\obj\Debug\net7.0\Application.csproj.CopyComplete
+D:\ASAP_Task\GeneralSolutions\Application\obj\Debug\net7.0\Application.dll
+D:\ASAP_Task\GeneralSolutions\Application\obj\Debug\net7.0\refint\Application.dll
+D:\ASAP_Task\GeneralSolutions\Application\obj\Debug\net7.0\Application.pdb
+D:\ASAP_Task\GeneralSolutions\Application\obj\Debug\net7.0\ref\Application.dll

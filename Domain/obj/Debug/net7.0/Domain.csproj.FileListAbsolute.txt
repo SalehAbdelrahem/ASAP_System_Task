@@ -1,0 +1,12 @@
+D:\ASAP_Task\GeneralSolutions\Domain\bin\Debug\net7.0\Domain.deps.json
+D:\ASAP_Task\GeneralSolutions\Domain\bin\Debug\net7.0\Domain.dll
+D:\ASAP_Task\GeneralSolutions\Domain\bin\Debug\net7.0\Domain.pdb
+D:\ASAP_Task\GeneralSolutions\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+D:\ASAP_Task\GeneralSolutions\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASAP_Task\GeneralSolutions\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+D:\ASAP_Task\GeneralSolutions\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+D:\ASAP_Task\GeneralSolutions\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+D:\ASAP_Task\GeneralSolutions\Domain\obj\Debug\net7.0\Domain.dll
+D:\ASAP_Task\GeneralSolutions\Domain\obj\Debug\net7.0\refint\Domain.dll
+D:\ASAP_Task\GeneralSolutions\Domain\obj\Debug\net7.0\Domain.pdb
+D:\ASAP_Task\GeneralSolutions\Domain\obj\Debug\net7.0\ref\Domain.dll

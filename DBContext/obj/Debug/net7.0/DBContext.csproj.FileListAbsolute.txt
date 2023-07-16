@@ -1,0 +1,17 @@
+D:\ASAP_Task\GeneralSolutions\DBContext\bin\Debug\net7.0\DBContext.deps.json
+D:\ASAP_Task\GeneralSolutions\DBContext\bin\Debug\net7.0\DBContext.dll
+D:\ASAP_Task\GeneralSolutions\DBContext\bin\Debug\net7.0\DBContext.pdb
+D:\ASAP_Task\GeneralSolutions\DBContext\bin\Debug\net7.0\Domain.dll
+D:\ASAP_Task\GeneralSolutions\DBContext\bin\Debug\net7.0\Domain.pdb
+D:\ASAP_Task\GeneralSolutions\DBContext\obj\Debug\net7.0\DBContext.csproj.AssemblyReference.cache
+D:\ASAP_Task\GeneralSolutions\DBContext\obj\Debug\net7.0\DBContext.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASAP_Task\GeneralSolutions\DBContext\obj\Debug\net7.0\DBContext.AssemblyInfoInputs.cache
+D:\ASAP_Task\GeneralSolutions\DBContext\obj\Debug\net7.0\DBContext.AssemblyInfo.cs
+D:\ASAP_Task\GeneralSolutions\DBContext\obj\Debug\net7.0\DBContext.csproj.CoreCompileInputs.cache
+D:\ASAP_Task\GeneralSolutions\DBContext\obj\Debug\net7.0\DBContext.csproj.CopyComplete
+D:\ASAP_Task\GeneralSolutions\DBContext\obj\Debug\net7.0\DBContext.dll
+D:\ASAP_Task\GeneralSolutions\DBContext\obj\Debug\net7.0\refint\DBContext.dll
+D:\ASAP_Task\GeneralSolutions\DBContext\obj\Debug\net7.0\DBContext.pdb
+D:\ASAP_Task\GeneralSolutions\DBContext\obj\Debug\net7.0\ref\DBContext.dll
+D:\ASAP_Task\GeneralSolutions\DBContext\bin\Debug\net7.0\DBContext.runtimeconfig.json
+D:\ASAP_Task\GeneralSolutions\DBContext\obj\Debug\net7.0\DBContext.genruntimeconfig.cache

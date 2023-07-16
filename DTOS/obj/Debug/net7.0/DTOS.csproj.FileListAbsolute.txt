@@ -1,0 +1,15 @@
+D:\ASAP_Task\GeneralSolutions\DTOS\bin\Debug\net7.0\DTOS.deps.json
+D:\ASAP_Task\GeneralSolutions\DTOS\bin\Debug\net7.0\DTOS.dll
+D:\ASAP_Task\GeneralSolutions\DTOS\bin\Debug\net7.0\DTOS.pdb
+D:\ASAP_Task\GeneralSolutions\DTOS\obj\Debug\net7.0\DTOS.csproj.AssemblyReference.cache
+D:\ASAP_Task\GeneralSolutions\DTOS\obj\Debug\net7.0\DTOS.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASAP_Task\GeneralSolutions\DTOS\obj\Debug\net7.0\DTOS.AssemblyInfoInputs.cache
+D:\ASAP_Task\GeneralSolutions\DTOS\obj\Debug\net7.0\DTOS.AssemblyInfo.cs
+D:\ASAP_Task\GeneralSolutions\DTOS\obj\Debug\net7.0\DTOS.csproj.CoreCompileInputs.cache
+D:\ASAP_Task\GeneralSolutions\DTOS\obj\Debug\net7.0\DTOS.dll
+D:\ASAP_Task\GeneralSolutions\DTOS\obj\Debug\net7.0\refint\DTOS.dll
+D:\ASAP_Task\GeneralSolutions\DTOS\obj\Debug\net7.0\DTOS.pdb
+D:\ASAP_Task\GeneralSolutions\DTOS\obj\Debug\net7.0\ref\DTOS.dll
+D:\ASAP_Task\GeneralSolutions\DTOS\bin\Debug\net7.0\Domain.dll
+D:\ASAP_Task\GeneralSolutions\DTOS\bin\Debug\net7.0\Domain.pdb
+D:\ASAP_Task\GeneralSolutions\DTOS\obj\Debug\net7.0\DTOS.csproj.CopyComplete
